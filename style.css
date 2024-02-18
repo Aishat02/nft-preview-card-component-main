@@ -65,7 +65,7 @@ h1 {
   color: var(--Softblue);
 }
 img {
-  margin: auto 4px auto 0;
+  margin: auto 2px auto 0;
 }
 .mini-container {
   display: flex;
